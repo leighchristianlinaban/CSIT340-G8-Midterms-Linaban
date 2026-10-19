@@ -1,5 +1,4 @@
 import { useState } from "react";
-
 function App() {
   const [read, setRead] = useState(0);
   const [bookmarks, setBookmarks] = useState(0);
